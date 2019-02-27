@@ -1,11 +1,6 @@
 <?php
-/**
- * @package PHP MapTiler, Simple Map Tiles Generator
- * @version 1.1 (2013.05.13)
- * @author  Fedik getthesite at gmail.com
- * @link    http://www.getsite.org.ua
- * @license	GNU/GPL http://www.gnu.org/licenses/gpl.html
- */
+
+namespace Drps;
 
 class MapTiler
 {
