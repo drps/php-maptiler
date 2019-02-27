@@ -342,11 +342,11 @@ class MapTiler
     /**
      * load image and return imagic resurce
      * @param string $path
-     * @return resource Imagick
+     * @return \Imagick
      */
     protected function loadImage($path = null)
     {
-        return new Imagick($path);
+        return new \Imagick($path);
     }
 
     /**
