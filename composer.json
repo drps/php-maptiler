@@ -2,7 +2,6 @@
     "name": "drps/php-maptiler",
     "description": "Tiles image for use in Google/Yandex etc maps",
     "type": "library",
-    "minimum-stability": "dev",
     "require": {
         "ext-imagick": "*"
     },
